@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Aedan
-- 👀 I’m interested in game development, graphic design and music production
-- 🌱 I’m currently learning C#, Maya, After Affects
-- 💞️ I’m looking to collaborate on game jams
+- 👋 G'day! I’m Aedan - a game dev student currently studying in Norway.
+- 👀 I’m interested in many aspects of game development, notably coding in C#, artificial intelligence, as well as graphic design and sound production.
+- 🌱 I’m currently using Unity, Autodesk Maya, Pro Tools, Adobe Photoshop and After Effects and recently GitHub Copilot.
 - 📫 You can reach me on LinkedIn -> www.linkedin.com/in/aedansoellaart
 
 
