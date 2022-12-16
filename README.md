@@ -4,4 +4,4 @@
 - 👨‍💻 My IDE of choice is **Rider**.
 - 🛶 My other hobbies include hiking, kayaking, board games, watching Formula 1, making graphic designs and dabbling with electronic music.
 - 📫 You can reach me easiest on **LinkedIn** -> www.linkedin.com/in/aedans
-Check out <a href="https://aedan.site">my portfolio</a> if you're interested!
+<br> Check out <a href="https://aedan.site">my portfolio</a> if you're interested!
