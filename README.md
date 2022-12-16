@@ -1,4 +1,5 @@
 - 👋 G'day! I’m Aedan - an Australian game dev student currently studying in Norway. 🇦🇺🇳🇴
-- 👀 I’m interested in many aspects of game development, notably coding in C#, programming and designing gameplay as well as desigining and implementing UX & UI. I also enjoy making graphic designs and electronic music.
-- 🌱 I’m currently using Unity, FMOD, JetBrains Rider and recently GitHub Copilot & OpenAI Chat.
-- 📫 You can reach me easiest on LinkedIn -> www.linkedin.com/in/aedans
+- 👀 I’m interested in many aspects of game development, notably coding in C#, programming and designing gameplay as well as desigining and implementing UX & UI. I also enjoy making graphic designs and electronic music. I aabosolutley love games and can't wait to enter the industry!
+- 🌱 I’m currently using **Unity**, **FMOD**, and recently **Unreal Engine 5**.
+- 👨‍💻 My IDE of choice is **Rider**.
+- 📫 You can reach me easiest on **LinkedIn** -> www.linkedin.com/in/aedans
