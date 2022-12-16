@@ -1,5 +1,5 @@
 - 👋 G'day! I’m Aedan - an Australian game dev student currently studying in Norway. 🇦🇺🇳🇴
-- 👀 I’m interested in many aspects of game development, notably coding in C#, programming and designing gameplay as well as desigining and implementing UX & UI. I also enjoy making graphic designs and electronic music. I absolutely love games and can't wait to enter the industry!
-- 🌱 I’m currently using **Unity**, **FMOD**, and recently **Unreal Engine 5**.
+- 👀 I’m interested in many aspects of game development, notably coding in C#, programming and designing gameplay as well as desigining and implementing UX & UI. I also enjoy making graphic designs and electronic music. I absolutely love games, I've been playing them since a child and have years experience making them seriously. My love for programming and designing games started when I was a 13 year old making games on MIT's Scratch, and I can't believe I'm attending university to study it! I'm very passionate about the industry and can't wait to officially enter it!
+- 🌱 I’m have experience using **Unity**, **FMOD**, and recently **Unreal Engine 5**.
 - 👨‍💻 My IDE of choice is **Rider**.
 - 📫 You can reach me easiest on **LinkedIn** -> www.linkedin.com/in/aedans
