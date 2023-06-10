@@ -1,4 +1,4 @@
-- 👋 G'day! I’m Aedan - a 21y/o Australian game dev student currently studying in Norway. 🇦🇺 -> 🇳🇴
+- 👋 G'day! I’m Aedan - a 21y/o Australian game dev student currently studying in Norway. 🇦🇺 ✈ 🇳🇴
 - 👀 I’m interested in many aspects of game development, notably coding in C#, programming and designing gameplay as well as desigining and implementing UX & UI.  I absolutely love games, I've been playing them since a child and have years experience making them seriously. My love for programming and designing games started when I was a 13 year old making games on MIT's Scratch, and now I can't believe I'm attending university to study it! I'm very passionate about the industry and can't wait to officially enter it!
 - 🌱 I’m experienced in **Unity**, **FMOD**, and web design.
 - 👨‍💻 My IDE of choice is **Rider**.
