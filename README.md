@@ -3,6 +3,6 @@
 - 🌱 I’m experienced in **C#, Unity, Unreal blueprints, game design, graphic design and web design.**
 - 💻 The platforms I've developed games for include PC, Android and WebGL.
 - 👨‍💻 My IDE of choice is **Rider**.
-- 🛶 My other hobbies include hiking, kayaking, board games, watching Formula 1, travelling, making graphic designs and dabbling in electronic music production.
+- 🛶 My hobbies include going to game jams, hiking, kayaking, board games, watching Formula 1, travelling, making graphic designs and dabbling in electronic music production.
 - 📫 You can reach me easiest on **LinkedIn** -> www.linkedin.com/in/aedans
 <br> <br>⭐⭐⭐ Check out the game's I've developed on <a href="https://aedan.site">**my portfolio**</a>! ⭐⭐⭐
