@@ -1,4 +1,4 @@
-- 🦘 G'day! I’m Aedan - a 22y/o Australian game designer currently studying in Norway 🇦🇺 🇳🇴 
+# 🦘 G'day! I’m Aedan - a 22y/o Australian game designer currently studying in Norway 🇦🇺 🇳🇴 
 - 🎓 I'll soon complete my bachelors in game development 🎮 I’m passionate in many aspects of game development, mainly **gameplay programming** in **C#**, **game design**, **UX & UI design**, and **UI programming**
 - 🐣 I absolutely adore games, I've been playing them since a child and now love creating them. My journey  of programming and designing games started when I was 13 years old making games on MIT's visual scripting platform Scratch [(Where one of my projects got featured on the front page)](https://scratch.mit.edu/projects/11436928/) and now I develop in **Unity** full time for the past 3 years. I also have 6 months experience in **Unreal Engine**
 - 🔧 I’m experienced in **C#, Unity, Unreal blueprints, game design, graphic design and web design**
