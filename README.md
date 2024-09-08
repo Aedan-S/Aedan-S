@@ -4,6 +4,6 @@
 - 🔧 I’m experienced in **C#, Unity, Unreal blueprints, game design, graphic design and web design**
 - 💻📲 The platforms I've developed games for include **PC**, **Android** and **WebGL**
 - 👨‍💻 My IDE of choice is **Rider**
-- 🛶 I'm into game jams, hiking, kayaking, concerts, board games, word games, Formula 1, travelling, graphic design and dabbling in electronic music production.
+- 🛶 I'm also into game jams, hiking, kayaking, concerts, board games, word games, Formula 1, travelling, graphic design and dabbling in electronic music production.
 - 📨 You can reach me easiest through [**my LinkedIn**](www.linkedin.com/in/aedans) or email (see underneath my profile picture)
-<br> <br>⭐⭐⭐ Check out the game's I've developed on [**my portfolio!**](https://aedan.site) ⭐⭐⭐
+<br> <br>⭐⭐⭐ Check out the game's I've developed on [**my portfolio!**](https://aedan.games) ⭐⭐⭐
