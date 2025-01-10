@@ -1,9 +1,8 @@
-# 🦘 Hey there! I’m Aedan - an aussie game designer based in Norway
-- 🎓 I just completed my bachelor's in game development! 🎮 I’m super passionate in **gameplay programming** and core **game design**, but I also enjoy design auxillary UX stuff
-- 🐣 I absolutely adore games, I've been playing them since a child and now love creating them. My journey  of programming and designing games started when I was 13 years old making games on MIT's visual scripting platform Scratch [(Where one of my projects got featured on the front page)](https://scratch.mit.edu/projects/11436928/) and now I develop in **Unity** full time for the past 4 years. I also have 1 year experience in **Unreal Engine**
-- 🔧 I’m experienced in **C#, Unity, Unreal blueprints, game design, graphic design and web design**
+# 🦘 Hey there! I’m Aedan - an aussie game designer based in Norway 
+Technical game designer experienced in Unity and Unreal with a bachelor's in generalist game development. Proficient in C# and blueprints.
+- 🐣 I've been playing games since a child and creating them since 11 years old. I started out on MIT's visual scripting platform Scratch [(Where one of my projects got featured on the front page)](https://scratch.mit.edu/projects/11436928/). I've now been developing for 4 years in **Unity** full time, and on and off in Unreal.
 - 💻📲 The platforms I've developed games for include **PC**, **Android** and **WebGL**
-- 👨‍💻 My IDE of choice is **Rider**
-- 🛶 I'm also into game jams, hiking, kayaking, concerts, board games, word games, Formula 1, travelling, graphic design and dabbling in electronic music production.
+- 👨‍💻 IDE of choice is **Rider**
+- 🛶 I'm also into graphic & web design, hiking & kayaking in the great outdoors, game jams, board games, word games, concerts and dabbling in electronic music production. I'm very good at Mario Kart.
 - 📨 You can reach me easiest through [**my LinkedIn**](www.linkedin.com/in/aedans) or email (see underneath my profile picture)
 <br> <br>⭐⭐⭐ Check out the game's I've developed on [**my portfolio!**](https://aedan.games) ⭐⭐⭐
