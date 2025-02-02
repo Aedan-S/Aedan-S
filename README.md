@@ -1,5 +1,5 @@
 # 🦘 Hey there! I’m Aedan
-Technical game designer experienced in Unity and Unreal with a bachelor's in generalist game development, currently pursuing a postgraduate degree in VR game design. Proficient in C# and blueprints.
+I'm an Australian technical game designer based in Norway. I'm experienced in Unity and Unreal with a bachelor's in generalist game development, currently pursuing a postgraduate degree in VR game design. Proficient in C# and blueprints.
 - 🐣 I've been playing games since a child and creating them since 11 years old. I started out on MIT's visual scripting platform Scratch [(Where one of my projects got featured on the front page)](https://scratch.mit.edu/projects/11436928/). I've now been developing for 4 years in **Unity** full time, and on and off in **Unreal**.
 - 💻📲 Platforms I've developed games for include **PC**, **Android** and **WebGL**
 - 👨‍💻 IDE of choice is Rider
