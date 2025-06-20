@@ -4,5 +4,5 @@ I'm an Australian technical game designer based in Norway. I'm experienced in Un
 - 💻📲 Platforms I've developed games for include **PC**, **Android** and **WebGL**
 - 👨‍💻 IDE of choice is Rider
 - 🛶 I'm also into graphic & web design, hiking, kayaking, game jams, board games, word games, concerts and dabbling in electronic music production. I'm also very good at Mario Kart.
-- 📨 You can reach me easiest through [**my LinkedIn**](www.linkedin.com/in/aedans) or email (see underneath my profile picture)
+- 📨 You can reach me easiest through [**my LinkedIn**](www.linkedin.com/in/aedans) or email (see underneath my GitHub profile picture on the left)
 <br> <br>⭐⭐⭐ Check out the games I've developed on [**my portfolio aedan.games**](https://aedan.games) ⭐⭐⭐
